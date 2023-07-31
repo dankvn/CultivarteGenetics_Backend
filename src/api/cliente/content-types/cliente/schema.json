@@ -4,7 +4,8 @@
   "info": {
     "singularName": "cliente",
     "pluralName": "clientes",
-    "displayName": "cliente"
+    "displayName": "client",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
